@@ -5,7 +5,7 @@ Chronic infection with the Hepatitis B virus causes the inflammation of the live
 
 2	 Source of the data
 
-The dataset I applied for this project is the hepatitis data set that was donated by G. Gong, Carnegie-Mellon University, via Bojan Cestnik of Jozef Stefan Institute. It is publicly available in UCI, machine learning repository. <https://www.kaggle.com/codebreaker619/hepatitis-data>
+The dataset I applied for this project is the hepatitis data set that was donated by G. Gong, Carnegie-Mellon University, via Bojan Cestnik of Jozef Stefan Institute. It is publicly available in UCI, machine learning repository. <https://archive.ics.uci.edu/ml/datasets/hepatitis>[1]
 
 3  Details of the dataset
 
@@ -15,3 +15,5 @@ I analyzed this dataset by applying several classification models. This repo con
 Regression | LDA | KNN | Random Forest | SVM Linear | SVM Radial
 
 Which I screipted by CARET package in R
+
+[1] Dua, D. and Graff, C. (2019).UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
